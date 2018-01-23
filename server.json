@@ -1,0 +1,9 @@
+{
+    "bootstrap": true,
+    "server": true,
+    "datacenter": "sfca01",
+    "data_dir": "/var/consul",
+    "encrypt": "REPLACEME"
+    "log_level": "INFO",
+    "enable_syslog": true
+}
